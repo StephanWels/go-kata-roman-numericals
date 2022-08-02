@@ -1,5 +1,6 @@
 package roman
 
 func Decode(roman string) int {
-	return 41
+	// TODO: write a functional decode function for roman numerals
+	return 0
 }
